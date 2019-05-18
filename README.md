@@ -1,0 +1,2 @@
+# multicraftconf
+Multicraft conf file
